@@ -24,6 +24,7 @@
                         echo fread($myfile,filesize("/var/www/my-vol/date"));
                         fclose($myfile);
                 ?>
+                <p>Watch out the dateTime of the volume check in 14.12 .... 
 
             </div>
         </div>
